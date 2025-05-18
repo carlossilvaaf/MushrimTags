@@ -1,0 +1,7 @@
+name: MushrimTags
+version: 1.0
+main: me.mushrim.tags.MushrimTags
+commands:
+  tag:
+    description: Escolher uma tag
+    usage: /tag <nome>

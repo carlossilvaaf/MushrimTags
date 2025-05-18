@@ -1,0 +1,7 @@
+tags:
+  ceo:
+    prefix: "&c[CEO] "
+  vip:
+    prefix: "&a[VIP] "
+  staff:
+    prefix: "&b[STAFF] "
